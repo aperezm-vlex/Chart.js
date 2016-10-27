@@ -25,13 +25,13 @@ var outDir = './dist/';
 var testDir = './test/';
 
 var header = "/*!\n" +
-  " * Chart.js\n" +
+  " * Chart.js with annotation plugin (https://github.com/chartjs/chartjs-plugin-annotation)\n" +
   " * http://chartjs.org/\n" +
   " * Version: {{ version }}\n" +
   " *\n" +
   " * Copyright 2016 Nick Downie\n" +
   " * Released under the MIT license\n" +
-  " * https://github.com/chartjs/Chart.js/blob/master/LICENSE.md\n" +
+  " * https://github.com/aperezm-vlex/Chart.js/blob/master/LICENSE.md\n" +
   " */\n";
 
 var preTestFiles = [
